@@ -1,0 +1,5 @@
+cmake_minimum_required (VERSION 2.6)
+add_compile_options(-std=c++11)
+project (Discrete_Planner)
+add_executable(planner src/planner_class.cpp src/Discrete_Planner.cpp)
+add_executable(test src/planner_class.cpp src/testing.cpp)
