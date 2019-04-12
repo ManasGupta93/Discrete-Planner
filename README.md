@@ -25,7 +25,7 @@ Path Found by Optimal Planner->[(2 0) (2 1) (3 1) (4 1) (5 1) (5 2) (5 3) (5 4) 
 
 output of ./test
 
-Test1::move_up() method passed successfully
+Test1::move_up() method passed successfully\
 Test2::move_down() method passed successfully
 Test3::move_right() method passed successfully
 Test4::move_left() method passed successfully
