@@ -26,20 +26,20 @@ Path Found by Optimal Planner->[(2 0) (2 1) (3 1) (4 1) (5 1) (5 2) (5 3) (5 4) 
 output of ./test
 
 Test1::move_up() method passed successfully\
-Test2::move_down() method passed successfully
-Test3::move_right() method passed successfully
-Test4::move_left() method passed successfully
-Test5::random_state method passed successfully
-Test6::collision_check method passed successfully for non collision
-Test7::collision_check method passed successfully for collision
-Test8::check_visited method passed successfully for visited state
-Test9::check_visited method passed successfully for non-visited state
-Test10::goal_check method passed successfully for goal state
-Test11::goal_check method passed successfully for non-goal state
-Test12::h_value method passed successfully
-test13::search random planner method path found passed successfully
-Unable to reach goal
-test14::search random planner method no path found passed successfully
-test15::search optimal planner method path found passed successfully
-Goal not found
-test16::search optimal planner method no path found passed successfully
+Test2::move_down() method passed successfully\
+Test3::move_right() method passed successfully\
+Test4::move_left() method passed successfully\
+Test5::random_state method passed successfully\
+Test6::collision_check method passed successfully for non collision\
+Test7::collision_check method passed successfully for collision\
+Test8::check_visited method passed successfully for visited state\
+Test9::check_visited method passed successfully for non-visited state\
+Test10::goal_check method passed successfully for goal state\
+Test11::goal_check method passed successfully for non-goal state\
+Test12::h_value method passed successfully\
+test13::search random planner method path found passed successfully\
+Unable to reach goal\
+test14::search random planner method no path found passed successfully\
+test15::search optimal planner method path found passed successfully\
+Goal not found\
+test16::search optimal planner method no path found passed successfully\
