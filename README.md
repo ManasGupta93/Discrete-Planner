@@ -3,7 +3,7 @@
 
 Follow the instructions to run the code on linux system.
 
-1. extract the content of .zip file Gupta_Manas.zip into any working directory.
+1. Clone the directory into any working directory.
 2. Open a terminal and go to the working directory where the files are extracted.
 3. cd Discrete_Planner 
 4. mkdir build
